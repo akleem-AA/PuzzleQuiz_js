@@ -26,8 +26,8 @@ function findMisChar(data){
     let text = String.fromCharCode(64+code);
     return text;
 }
-var result = findMisChar("W")
-console.log(result) //char
+var result = findMisChar("L")
+console.log(result) //char O
 ```
 
 python
