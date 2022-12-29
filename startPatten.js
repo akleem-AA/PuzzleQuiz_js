@@ -13,3 +13,5 @@ for(let i = 0;i<5;i++){
         console.log(st +="*")
     }
 }
+
+//https://www.tutorialstonight.com/js/javascript-star-pattern#diamond-star-pattern
